@@ -30,6 +30,8 @@ DEPARTMENT: BTECH IT
 
 
 # Result
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
+
 
 # Output 
 ![image](https://github.com/user-attachments/assets/efb0f149-6691-4c43-9822-6c0a7fa3fd25)
