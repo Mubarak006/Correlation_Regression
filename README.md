@@ -29,10 +29,12 @@ DEPARTMENT: BTECH IT
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
+# Output 
+![image](https://github.com/user-attachments/assets/efb0f149-6691-4c43-9822-6c0a7fa3fd25)
+
+
 # Result
 The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
 
 
-# Output 
-![image](https://github.com/user-attachments/assets/efb0f149-6691-4c43-9822-6c0a7fa3fd25)
 
